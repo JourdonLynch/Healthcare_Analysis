@@ -1,3 +1,3 @@
 # Healthcare_Analysis
 
-The purpose of this analysis is to analyze a fictional hospital dataset retrieved from kaggle in order to gain insights into customer demographics and ascertain what conditions affect specific groups the most. In addition, condition statistics will be exlored in reference to factors such as the length of stay, medication,and associated costs. A number of visualizations were created to make the data easier to understand.
+While happiness is inherently subjective, the World Happiness Index offers a structured way to examine the measurable factors associated with well-being across nations. This report analyzes key indicators within the dataset to determine how different variables influence perceived happiness and to identify broader trends in the drivers of societal well-being.
